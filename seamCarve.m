@@ -1,3 +1,5 @@
+% testing testing
+
 function seamCarveSimple( )
 
 global visual path
